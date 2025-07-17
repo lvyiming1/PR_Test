@@ -1,3 +1,10 @@
+傅里叶变换公式如下：
+$$
+\mathcal{F}(\omega) = \int_{-\infty}^{\infty} f(t) e^{-i\omega t} dt
+$$
+
+
+
 # markdown-render
 
 markdown-render katex
