@@ -5,7 +5,7 @@ $$
 
 
 
-# markdown-render
+# markDown-render
 
 markdown-render katex
 
