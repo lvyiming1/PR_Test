@@ -15,6 +15,7 @@ markdown 中使用 LaTeX (KaTeX) 语法来显示复杂的数学公式。你需�
 块级公式是需要 $$ 顶格写，才会进行解析，解析后，公式居中展示，示例：
 
 $$
+
 \begin{array}{c}
 
 \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
@@ -25,6 +26,7 @@ $$
 \nabla \cdot \vec{\mathbf{B}} & = 0
 
 \end{array}
+
 $$
 
 **GitCode 会把公式解析成居中显示，而且支持公式间的换行，Gitee 不能正确渲染上面的块级公式。**
