@@ -1,3 +1,9 @@
+```mermaid
+graph TD
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Action 1]
+  B -->|No| D[Action 2]
+```
 
 ```Alice -> "Bob()" : Hello
 "Bob()" -> "This is very long" as Long
